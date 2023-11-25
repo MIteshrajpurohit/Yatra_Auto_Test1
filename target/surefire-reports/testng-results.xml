@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-25T03:55:34Z" name="Suite" finished-at="2023-11-25T03:56:00Z" duration-ms="25977">
+    <groups>
+    </groups>
+    <test started-at="2023-11-25T03:55:34Z" name="Test" finished-at="2023-11-25T03:56:00Z" duration-ms="25977">
+      <class name="com.TCs.HomePage_TC">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TCs.HomePage_TC@1e8b7643]" started-at="2023-11-25T03:55:34Z" name="Setup" finished-at="2023-11-25T03:55:44Z" duration-ms="10035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="verify_title()[pri:1, instance:com.TCs.HomePage_TC@1e8b7643]" started-at="2023-11-25T03:55:44Z" name="verify_title" finished-at="2023-11-25T03:55:44Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_title -->
+        <test-method signature="verify_account_popup()[pri:2, instance:com.TCs.HomePage_TC@1e8b7643]" started-at="2023-11-25T03:55:44Z" name="verify_account_popup" finished-at="2023-11-25T03:55:46Z" duration-ms="2187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_popup -->
+        <test-method signature="Verify_selectFlighttxt()[pri:3, instance:com.TCs.HomePage_TC@1e8b7643]" started-at="2023-11-25T03:55:46Z" name="Verify_selectFlighttxt" finished-at="2023-11-25T03:55:58Z" duration-ms="11689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_selectFlighttxt -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TCs.HomePage_TC@1e8b7643]" started-at="2023-11-25T03:55:58Z" name="teardown" finished-at="2023-11-25T03:56:00Z" duration-ms="2035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TCs.HomePage_TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
